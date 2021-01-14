@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+header{
+    border-bottom:solid 3px ;
+    border-top:solid 7px orange;
+    height: 85px;
+}
+.header_contents{
+    width: 70%;
+    margin: 0 auto;
+   
+}
+.header_main{
+    display: flex;
+    justify-content: space-between;
+}
